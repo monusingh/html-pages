@@ -1,0 +1,159 @@
+body {
+	background-color: #e5e5e5;
+	padding: 0;
+	margin: 0;
+	font-family: arial,helvetica, sens-serif;
+	color: #000;
+}
+#header{
+	margin-top: 0px;
+	background-image: url("../images/bg.jpg");
+	background-repeat: repeat-x;
+    height: 321px;
+    
+}
+
+#logo{
+	margin-left: 280px;
+	padding-top: 10px;
+}
+
+.navbar{
+	margin-left: 200px;
+	width: 868px;
+	background-image: url("../images/teaser-bg.jpg");
+	background-repeat: repeat-x;
+	height: 40px;
+	margin-top: -4px;
+
+}
+.navbar ul {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.navbar a {
+    float: left;
+    width: auto;
+    text-decoration: none;
+    color: #000;
+    background-color: none;
+    padding: 10px 50px;
+    border-right: 1px solid gray;
+   
+}
+
+.navbar a:hover {
+    background-color: #105e12;
+}
+
+.navbar li {
+    display: inline;
+}
+#head-logo {
+	background-image: url("../images/header-bg.jpg");
+	background-repeat: no-repeat;
+	margin-top: -320px;
+	height: 130px;
+}
+
+#content{
+	background-color: white;
+	margin-left: 200px;
+	width: 868px;
+	margin-top: 80px;
+	padding: 8px;
+	margin-bottom: 80px;
+}
+.content-1{
+	background-image: url("../images/teaser-bg.jpg");
+	background-repeat: repeat-x;
+	border: 1px solid gray;
+	height: 80px;
+
+    
+}
+.logo-button {
+	margin-top: -70px;
+	margin-right: 20px;
+}
+.content-2{
+	background-image: url("../images/featured-bg.jpg");
+	background-repeat: repeat-x;
+	border: 1px solid gray;
+	height: 230px;
+	margin-top: 10px;
+}
+.main-content{
+	text-align: left;
+    width: 600px;
+    margin-left: 15px;
+    margin-top: -15px;
+
+}
+.main-content-heading{
+	text-align: left;
+    width: 600px;
+    margin-left: 15px;
+
+
+}
+.buttons{
+	margin-left: 15px;
+	margin-bottom: 40px;
+}
+.chart {
+	margin-top: -160px;
+	margin-right: 40px;
+
+}
+.sidebar{
+	float: right;
+	margin-top: -380px;
+	margin-right: 60px;
+}
+.sidebar-news {
+	margin-top: -30px;
+	margin-left: 40px;
+}
+
+.sidebar-heading{
+	font-size: 15px;
+}
+.sidebar-content {
+	font-size: 12px;
+	margin-top: -21px;
+}
+.footer {
+	margin-left: 210px;
+	width: 868px;
+	padding: 8px;
+	margin-top: -75px;
+	margin-bottom: 50px;
+}
+.footer li {
+    display: inline;
+}
+.footer ul {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.footer a {
+    float: left;
+    width: auto;
+    text-decoration: none;
+    color: #000;
+    background-color: none;
+    padding: 0px 10px;
+}
+
+.footer a:hover {
+    background-color: #e5e5e5;
+}
